@@ -7,7 +7,7 @@ A simple bot to add to your Discord server, so it can chat and interact with eve
 -  You can chat with it by @ them or by replying to it's message!
 -  It can randomly reply to someone's message from time to time!
 -  It can decide by itself if it will reply with a text or with a reaction, if it will reply with short or long text and even decide the tone for its text!
--  You can customize its personality by edditing the chat.py file!
+-  You can customize its personality by editing the chat.py file!
 -  It can send a message automatically if the server has no new messages that day!
 -  And probably other features i just can't remember right now.
 
